@@ -1,0 +1,8 @@
+C:\Users\Brian Ceasar\source\repos\mortageCalculator\mortageCalculator\bin\Debug\mortageCalculator.exe.config
+C:\Users\Brian Ceasar\source\repos\mortageCalculator\mortageCalculator\bin\Debug\mortageCalculator.exe
+C:\Users\Brian Ceasar\source\repos\mortageCalculator\mortageCalculator\bin\Debug\mortageCalculator.pdb
+C:\Users\Brian Ceasar\source\repos\mortageCalculator\mortageCalculator\obj\Debug\mortageCalculator.csproj.AssemblyReference.cache
+C:\Users\Brian Ceasar\source\repos\mortageCalculator\mortageCalculator\obj\Debug\mortageCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Brian Ceasar\source\repos\mortageCalculator\mortageCalculator\obj\Debug\mortageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Brian Ceasar\source\repos\mortageCalculator\mortageCalculator\obj\Debug\mortageCalculator.exe
+C:\Users\Brian Ceasar\source\repos\mortageCalculator\mortageCalculator\obj\Debug\mortageCalculator.pdb
